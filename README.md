@@ -11,6 +11,14 @@ Do you like my profile ?
 - ⚡ Fun fact: Foodie, lolzz
 
 
+
+
+
+
+<div class="github-profile-badge" data-user="rapsssito"></div>
+<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
+
+
 <!--
 **abhigyan631/abhigyan631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
