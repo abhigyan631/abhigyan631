@@ -8,7 +8,7 @@ Do you like my profile ?
 - 🤔 I’m looking for help with LegalTech using AI
 - 💬 Ask me about EDA, Python, and NLP
 - 📫 How to reach me: https://www.linkedin.com/in/obhinaba17/ 
-- ⚡ Fun fact: Foodie, lolzz
+- ⚡ Fun fact: Foodie, Movie buff lolzz
 
 
 
