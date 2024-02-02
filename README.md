@@ -2,7 +2,7 @@
 
 Do you like my profile ?
 
-- 🔭 I’m currently working on Text Analysis of Legal Data
+- 🔭 I’m currently learning MLOps
 - 🌱 I’m currently learning various use cases of NLP and applying them to my projects (https://medium.com/@abhi2652254)
 - 👯 I’m looking to collaborate on EDA using Jupyter, NLP, MLOPs, and Cloud Deployment
 - 🤔 I’m looking for help with LegalTech using AI
